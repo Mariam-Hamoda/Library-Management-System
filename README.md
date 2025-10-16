@@ -21,4 +21,9 @@ This project demonstrates a simple, modular design for managing books, users, an
   ## Screenshots
 ### Admin screen
 ![Admin Menu](https://github.com/Mariam-Hamoda/Library-Management-System/blob/main/Screenshots/AdminScreenshot/Screenshot%202025-10-16%20232042.png?raw=true)
+#### Book Management
+![Book Management](https://github.com/Mariam-Hamoda/Library-Management-System/blob/main/Screenshots/AdminScreenshot/Screenshot%202025-10-16%20232056.png?raw=true)
+
+#### User Management
+![User Management](https://github.com/Mariam-Hamoda/Library-Management-System/blob/main/Screenshots/AdminScreenshot/Screenshot%202025-10-16%20234023.png?raw=true)
 

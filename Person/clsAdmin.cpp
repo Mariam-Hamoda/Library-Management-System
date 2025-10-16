@@ -17,7 +17,7 @@ void clsAdmin::setPassword(const string &_password) {
 }
 
 bool clsAdmin::checkPassword() {
-    cout << "Enter the password: ";
+    cout << "\t\t\tEnter the password: ";
     string inputPassword;
     cin >> inputPassword;
 

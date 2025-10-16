@@ -44,6 +44,7 @@ void clsInputOutputAdmin::ProcessManagementBooks() {
 
         switch (choice) {
             case 1:
+                system("cls");
                 books.addBooks();
                 break;
 

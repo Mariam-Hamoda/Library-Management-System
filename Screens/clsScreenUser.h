@@ -8,16 +8,16 @@ class clsScreenUser {
 
 public:
     static void ShowUserMenu() {
-        cout << "\n==================  User Menu ==================\n";
-        cout << "1. Display Books in the library\n";
-        cout << "2. Search Books\n";
-        cout << "3. Borrow Book\n";
-        cout << "4. Sign In\n";
-        cout << "5. Register\n";
-        cout << "6. My Borrowed Books\n";
-        cout << "7. Back to Main Menu\n";
-        cout << "================================================\n";
-        cout << "Enter your choice: ";
+        cout << "\n\t\t\t==================  User Menu ==================\n";
+        cout << "\t\t\t1. Display Books in the library\n";
+        cout << "\t\t\t2. Search Books\n";
+        cout << "\t\t\t3. Borrow Book\n";
+        cout << "\t\t\t4. Sign In\n";
+        cout << "\t\t\t5. Register\n";
+        cout << "\t\t\t6. My Borrowed Books\n";
+        cout << "\t\t\t7. Back to Main Menu\n";
+        cout << "\t\t\t================================================\n";
+        cout << "\t\t\tEnter your choice: ";
     }
 
     static void ShowSearchMenuForUser() {

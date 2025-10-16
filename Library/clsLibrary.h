@@ -20,15 +20,14 @@ public:
     void menu() {
         int choice;
         do {
-            system("cls");
-            cout << "=====================================\n";
-            cout << "       Library Management System     \n";
-            cout << "=====================================\n";
-            cout << "1. User\n";
-            cout << "2. Librarian\n";
-            cout << "0. Exit\n";
-            cout << "=====================================\n";
-            cout << "Enter your choice: ";
+            cout << "\t\t\t=====================================\n";
+            cout << "\t\t\t     Library Management System       \n";
+            cout << "\t\t\t=====================================\n";
+            cout << "\t\t\t1. User\n";
+            cout << "\t\t\t2. Librarian\n";
+            cout << "\t\t\t0. Exit\n";
+            cout << "\t\t\t=====================================\n";
+            cout << "\t\t\tEnter your choice: ";
             cin >> choice;
 
             switch (choice) {

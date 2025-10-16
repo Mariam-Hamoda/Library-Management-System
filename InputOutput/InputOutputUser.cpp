@@ -89,7 +89,13 @@ void InputOutputUser::handleOptionUser() {
     do {
         system("cls");
         clsScreenUser::ShowUserMenu();
-        cin >> option;
+        if (!(cin >> option)) {
+            cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+            cout << "Invalid input, please enter a number.\n";
+            system("pause");
+            continue; // restart loop
+        }
 
         switch(option) {
 

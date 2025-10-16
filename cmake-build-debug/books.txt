@@ -1,4 +1,0 @@
-10B||A Brief History of Time||Stephen Hawking||Science||10||1||80.000000
-10C||And Then There Were None||Agatha Christie||Mystery||12||1||70.000000
-10D||The Art of War||Sun Tzu||Philosophy||20||1||130.000000
-10F||Animal Farm||George Orwell||Political Satire||30||1||150.000000
